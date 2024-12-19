@@ -1,0 +1,9 @@
+routes.json
+*.csv
+output
+*.pyc
+*.xlsx
+*.kml
+.DS_Store
+venv-delivery-routes
+.env
